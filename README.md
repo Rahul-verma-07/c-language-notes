@@ -253,40 +253,35 @@ This repository documents my <ins>**C programming learning journey**</ins> and s
 c-language-notes/
 
 │
-
 ├── README.md
-
 │
-
 ├── 00-introduction/
-
+|
 ├── 01-variables-datatypes/
-
+|
 ├── 02-operators-expressions/
-
+|
 ├── 03-conditional-statements/
-
+|
 ├── 04-loops/
-
+|
 ├── 05-functions/
-
+|
 ├── 06-recursion/
-
+|
 ├── 07-pointers/
-
+|
 ├── 08-arrays/
-
+|
 ├── 09-strings/
-
+|
 ├── 10-structures/
-
+|
 ├── 11-file-handling/
-
+|
 ├── 12-dynamic-memory-allocation/
-
-│
-
-└── assets/
+|
+└── Practice-questions/
 
 ```
 
