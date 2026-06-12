@@ -126,20 +126,113 @@ c-language-notes/
 │
 ├── README.md
 │
-├── 00-introduction/
-├── 01-variables-datatypes/
-├── 02-operators-expressions/
-├── 03-conditional-statements/
-├── 04-loops/
-├── 05-functions/
-├── 06-recursion/
-├── 07-pointers/
-├── 08-arrays/
-├── 09-strings/
-├── 10-structures/
-├── 11-file-handling/
-├── 12-dynamic-memory-allocation/
-└── practice-questions/
+├── Chapter-00
+│   ├── introduction-to-c.md
+│   ├── uses-of-c.md
+│   └── first-c-program.md
+│
+├── Chapter-01
+│   ├── variables.md
+│   ├── variable-rules.md
+│   ├── data-types.md
+│   ├── comments.md
+│   ├── printf-function.md
+│   ├── scanf-function.md
+│   └── types-of-instructions.md
+│
+├── Chapter-02
+│   ├── arithmetic-operators.md
+│   ├── operator-precedence.md
+│   ├── operator-associativity.md
+│   └── type-conversion.md
+│
+├── Chapter-03
+│   ├── conditional-instructions.md
+│   ├── relational-operators.md
+│   ├── logical-operators.md
+│   ├── ternary-operator.md
+│   └── switch-case.md
+│
+├── Chapter-04
+│   ├── loop-control-instructions.md
+│   ├── while-loop.md
+│   ├── do-while-loop.md
+│   ├── for-loop.md
+│   ├── increment-decrement.md
+│   ├── break-statement.md
+│   └── continue-statement.md
+│
+├── Chapter-05
+│   ├── functions.md
+│   ├── function-prototype.md
+│   ├── function-call.md
+│   ├── library-functions.md
+│   ├── user-defined-functions.md
+│   ├── parameters-vs-arguments.md
+│   └── call-by-value.md
+│
+├── Chapter-06
+│   ├── recursion.md
+│   ├── recursive-functions.md
+│   ├── fibonacci-series.md
+│   └── base-condition.md
+│
+├── Chapter-07
+│   ├── pointers.md
+│   ├── address-operator.md
+│   ├── value-at-address.md
+│   ├── pointer-declaration.md
+│   ├── pointer-to-pointer.md
+│   ├── call-by-reference.md
+│   └── pointer-arithmetic.md
+│
+├── Chapter-08
+│   ├── arrays.md
+│   ├── accessing-elements.md
+│   ├── array-initialization.md
+│   ├── arrays-in-memory.md
+│   ├── arrays-and-pointers.md
+│   ├── passing-arrays-to-functions.md
+│   └── multidimensional-arrays.md
+│
+├── Chapter-09
+│   ├── strings.md
+│   ├── string-input-output.md
+│   ├── gets-and-puts.md
+│   ├── strings-using-pointers.md
+│   ├── strlen.md
+│   ├── strcpy.md
+│   ├── strcat.md
+│   └── strcmp.md
+│
+├── Chapter-10
+│   ├── structures.md
+│   ├── taking-structure-input.md
+│   ├── array-of-structures.md
+│   ├── structure-initialization.md
+│   ├── pointer-to-structure.md
+│   ├── arrow-operator.md
+│   ├── passing-structures.md
+│   └── typedef.md
+│
+├── Chapter-11
+│   ├── file-io.md
+│   ├── file-pointers.md
+│   ├── file-opening-modes.md
+│   ├── reading-files.md
+│   ├── writing-files.md
+│   ├── fclose.md
+│   ├── fgetc-fputc.md
+│   └── eof.md
+│
+├── Chapter-12
+│   ├── dynamic-memory-allocation.md
+│   ├── malloc.md
+│   ├── calloc.md
+│   ├── realloc.md
+│   └── free.md
+│
+└── Practice-Sets
 ```
 
 ---
